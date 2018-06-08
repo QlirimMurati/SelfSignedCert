@@ -1,0 +1,11 @@
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\bin\Debug\Pluralsight.Crypto.dll
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\bin\Debug\Pluralsight.Crypto.pdb
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.csprojResolveAssemblyReference.cache
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.Properties.Resources.resources
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.UI.BackgroundCertGenForm.resources
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.UI.GenerateSelfSignedCertForm.resources
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.UI.CertDetailsForm.resources
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.csproj.GenerateResource.cache
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.dll
+C:\Users\Kobit\Desktop\emu8086-master\SelfCert\src\Pluralsight.Crypto\obj\Debug\Pluralsight.Crypto.pdb
